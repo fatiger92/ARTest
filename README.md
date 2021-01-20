@@ -1,2 +1,2 @@
-# ARTest
-ARImgTracking
+# UnityAR
+ARCore with ARFoundation
